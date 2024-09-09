@@ -38,7 +38,7 @@ const Experience = () => {
       
       <Image src='/dispay-code.png' alt='binary' width={500} height={500} className='w-96 h-96 absolute top-48 left-24' />
 
-      <Image src='/code-simple.png' alt='binary' width={500} height={500} className='w-48 h-48 absolute top-1/2 right-4' />
+      <Image src='/code-simple.png' alt='binary' width={500} height={500} className='w-48 h-48 absolute top-1/2 right-4 max-sm:hidden' />
 
     </section>
   )
