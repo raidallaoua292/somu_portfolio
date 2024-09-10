@@ -12,6 +12,7 @@ const expoArabic = localFont({
 export const metadata: Metadata = {
   title: "Somu Portfolio",
   description: "Somu Portfolio built with Next.js",
+  icons: "/Logo-Somu-Academy.png"
 };
 
 export default function RootLayout({
